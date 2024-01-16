@@ -1,0 +1,15 @@
+Deepaknani07:~$ cd 'sap session
+Deepaknani07:~/sap session$ mkdir edunet
+Deepaknani07:~/sap session$ cd edunet
+Deepaknani07:~/sap session/edunet$ echo "hello this is deepak" >> file1.txt
+Deepaknani07:~/sap session/edunet$ cat file1.txt
+hello this is suraj
+Deepaknani07:~/sap session/edunet$ echo "ohh fine it works"
+ohh fine it works
+Deepaknani07:~/sap session/edunet$ cp file1.txt file2.txt
+Deepaknani07:~/sap session/edunet$ cat file2.txt
+hello this is suraj
+Deepaknani07:~/sap session/edunet$ rm file1.txt
+Deepaknani07:~/sap session/edunet$ ls
+file2.txt
+Deepaknani07:~/sap session/edunet$
